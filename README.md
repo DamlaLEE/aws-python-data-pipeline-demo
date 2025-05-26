@@ -124,7 +124,7 @@ Use SQL within Redshift to create summary tables (Data Mart).
 ---
 
 ### Step 7: [Looker Studio] Create Dashboards Using BI Tool
-[Dashboard_looker studio](images/looker_studio_dashboard.PNG)
+![Dashboard_looker studio](images/looker_studio_dashboard.PNG)
 Connect Redshift’s data mart to `Looker Studio` and build dashboards for visualization.
 *actualy
 
