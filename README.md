@@ -2,7 +2,7 @@
 
 ### A hands-on project to build a full data pipeline from scratch to BI using AWS and Python
 
-[한글버전 보러가기 _ View Readme in Korean](README.ko.md)
+> 👉[한글버전 보러가기 _ View Readme in Korean](README.ko.md)
 ---
 
 ## 1. Project Overview
@@ -51,7 +51,7 @@ project_for_data_pipeline/
 ## 3. Summary of Data Pipeline Flow
 
 **End-to-end data pipeline flow**:  
-[data_pipeline](images/data_pipeline_chart_ver1.png)
+![data_pipeline](images/data_pipeline_chart_ver1.png)
 
 ```text
 [AWS RDS workgroup creation] → [ETL process with Python] → [Backup to S3] → [AWS Redshift data warehouse creation & data load] → [Data mart creation in Redshift]
