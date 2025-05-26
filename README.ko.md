@@ -1,7 +1,7 @@
 # 🧱 Order-He 이커머스 데이터 파이프라인 구축 프로젝트
 ### AWS와 Python을 활용하여 데이터 파이프라인부터 BI까지 직접 구축해보는 실무형 프로젝트  
 
-[View Readme in English](README.md)
+> 👉[View Readme in English](README.md)
 
 ---
 
@@ -51,7 +51,7 @@ project_for_data_pipeline/
 ## 3. 데이터 파이프라인 흐름 구조 요약
 
 **전체 데이터 파이프라인 흐름 요약**:
-[data_pipeline](images/data_pipeline_chart_ver1.png)
+![data_pipeline](images/data_pipeline_chart_ver1.png)
 
 ```text
 [AWS RDS workpage 생성] → [Python으로 ETL 처리] → [S3로 백업] → [AWS Redshift 데이터 웨어하우스 생성 & 데이터 복사] → [AWS Redshift 데이터 마트용 데이터 저장] 
@@ -126,7 +126,7 @@ Redshift 내 SQL을 활용하여 요약 테이블(Data Mart)을 생성합니다.
 ---
 
 ### 7단계 : [Looker Studio] BI툴을 활용하여 대시보드 제작
-[Dashboard_looker studio](images/looker_studio_dashboard.PNG)
+![Dashboard_looker studio](images/looker_studio_dashboard.PNG)
 `Looker Studio`에 Redshift의 데이터 마트를 연결하여 대시보드를 제작합니다.
 
 ---
