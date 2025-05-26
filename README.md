@@ -2,6 +2,7 @@
 
 ### A hands-on project to build a full data pipeline from scratch to BI using AWS and Python
 
+[한글버전 보러가기 _ View Readme in Korean](README.ko.md)
 ---
 
 ## 1. Project Overview

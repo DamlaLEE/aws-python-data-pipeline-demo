@@ -1,6 +1,8 @@
 # 🧱 Order-He 이커머스 데이터 파이프라인 구축 프로젝트
 ### AWS와 Python을 활용하여 데이터 파이프라인부터 BI까지 직접 구축해보는 실무형 프로젝트  
 
+[View Readme in English](README.md)
+
 ---
 
 ## 1. 프로젝트 개요
