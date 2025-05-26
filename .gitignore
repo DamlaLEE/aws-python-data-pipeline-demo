@@ -1,0 +1,5 @@
+# Ignore DB config
+config/db_info.yml
+
+# Ignore basic notebook
+Basic_code.ipynb

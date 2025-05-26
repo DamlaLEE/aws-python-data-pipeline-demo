@@ -1,0 +1,301 @@
+customer_id,phone,country,address,level_royalty
+CUST0001,001-830-979-4371x8855,USA,"6359 James Crossroad Ronaldside, PR 56083",Bronze
+CUST0002,001-347-734-1533,France,"5443 Tamara Drive Apt. 464 South Chloe, FM 30925",Silver
+CUST0003,749.833.4638x06228,UK,"8952 Jeffrey Mountain West Jonathan, AZ 29024",Silver
+CUST0004,+1-732-249-8018x3500,USA,"8839 Tammy Walk Boyerfurt, AL 17488",Bronze
+CUST0005,975.827.5971x3401,Singapore,Unit 9255 Box 9197 DPO AA 56889,Platinum
+CUST0006,503-850-7595x0590,Korea,"0956 Roberts Park Kennethchester, CO 76541",Bronze
+CUST0007,+1-839-888-7398x3978,USA,"8836 Brenda Keys Apt. 995 New Vicki, HI 35866",Silver
+CUST0008,792.201.2847x308,UK,"493 Johnson Mill Suite 422 Jenniferport, MH 29319",Bronze
+CUST0009,(575)742-4693x4827,Vietnam,"9652 Thomas Green Apt. 681 Katherineside, NV 72837",Silver
+CUST0010,3153825619,Vietnam,"88795 King Mills Lake Marco, MN 66144",Platinum
+CUST0011,(906)679-8320,UK,"46735 Gill Trail Mckenzieberg, AS 87288",Platinum
+CUST0012,999.280.0616x8972,Singapore,"645 Porter Crossing Lake Ryan, WI 34571",Gold
+CUST0013,341.261.4418x196,Korea,Unit 1935 Box 9465 DPO AA 97349,Silver
+CUST0014,2666978520,Canada,"124 Henderson Ways Apt. 337 Harrishaven, TX 34524",Gold
+CUST0015,+1-535-897-3059x3131,France,Unit 3392 Box 3520 DPO AA 15378,Silver
+CUST0016,749.483.0341x94124,UK,"5949 Johnson Lane Wendyside, TX 24516",Gold
+CUST0017,+1-988-651-6173x17209,USA,"7597 Michael Views Suite 636 North Jessicamouth, NJ 27456",Bronze
+CUST0018,725.704.8353x165,Canada,"215 Hoffman Alley Suite 442 Ashleyburgh, PW 76976",Bronze
+CUST0019,001-644-590-2547x491,Germany,Unit 7399 Box 8291 DPO AP 02921,Gold
+CUST0020,+1-418-952-5641x18969,Singapore,"PSC 4517, Box 1259 APO AP 95904",Gold
+CUST0021,504.473.7744,Korea,"PSC 1625, Box 1228 APO AP 88799",Platinum
+CUST0022,9984791659,Vietnam,"96983 Jessica Trafficway Apt. 119 East Kristina, PA 34977",Bronze
+CUST0023,596.477.8659x96489,Canada,"546 Jimmy Stream Tonyfurt, VA 38817",Bronze
+CUST0024,(418)539-3159x645,Vietnam,"22444 Katrina Turnpike Ramosville, AS 72714",Gold
+CUST0025,832-246-5849,Singapore,"0917 Gibbs Bypass Suite 307 Tiffanyshire, WI 55516",Gold
+CUST0026,911.960.8636x897,Singapore,"984 Leslie Mount Suite 043 West Charles, UT 53695",Silver
+CUST0027,629.548.3766x4313,USA,"9281 Bush Mall Apt. 828 South Sandra, SC 42573",Bronze
+CUST0028,846-675-8913,UK,"51320 Kristen Plaza Apt. 038 South Marytown, IA 83638",Gold
+CUST0029,718.892.4803x277,USA,"8147 Jonathon Freeway Apt. 170 North Kellyside, GU 76611",Silver
+CUST0030,475.438.3729,USA,"25459 Collins Station Apt. 103 Christophershire, TX 44474",Platinum
+CUST0031,+1-650-899-3692,France,Unit 3485 Box 5342 DPO AP 23399,Platinum
+CUST0032,(353)465-8187x44328,Germany,"25772 Long Springs Loriview, AZ 57766",Silver
+CUST0033,224.732.5413,Germany,USCGC Walton FPO AE 22337,Gold
+CUST0034,001-586-724-3641x188,UK,"93242 Smith Orchard Suite 549 Port Melody, TX 80500",Gold
+CUST0035,325-798-9153x108,USA,"6589 Kathryn Forges Troyhaven, WV 02818",Silver
+CUST0036,808-591-2404x3743,Vietnam,"479 Jones Forge West Markport, AK 78979",Silver
+CUST0037,001-495-386-4916,Japan,"7730 Autumn Forks Suite 885 Kennethborough, MT 26282",Platinum
+CUST0038,001-839-285-0676x6840,Canada,"953 Michael Unions Marychester, LA 94611",Gold
+CUST0039,687.720.2049,Vietnam,"PSC 1770, Box 2128 APO AE 24472",Silver
+CUST0040,8857900052,Germany,Unit 3096 Box 8936 DPO AP 09473,Bronze
+CUST0041,(396)700-3990,UK,"027 Christopher Corners East Justin, ID 14721",Bronze
+CUST0042,001-231-907-0937,Germany,"5119 Claire Glen East Joshua, CA 91550",Platinum
+CUST0043,(905)543-9080x220,France,"057 Sarah View Apt. 855 Lake Nicole, KS 01763",Bronze
+CUST0044,3253706720,UK,"5919 Anthony Turnpike Suite 678 West Andreaport, OH 40159",Gold
+CUST0045,253.258.3969,UK,"82777 Sosa Path Suite 956 New Joseph, NE 59355",Platinum
+CUST0046,275-409-5639x185,Canada,"562 Hartman Forge Suite 211 West Thomasland, AK 22871",Platinum
+CUST0047,(444)591-8262,Japan,"284 Fields Greens Suite 959 West Jaclyn, VT 32665",Gold
+CUST0048,683-305-7644,Japan,"100 Holt Cliff Suite 868 West Jeremychester, MS 19915",Silver
+CUST0049,861.840.9535x778,Vietnam,"01090 Washington Forks Potterland, MP 84143",Gold
+CUST0050,280.474.2270,Singapore,"541 Stevenson Springs Apt. 418 Danafurt, VA 84466",Platinum
+CUST0051,(357)315-7140x352,Singapore,"036 Nicole Row Stephentown, FL 16072",Platinum
+CUST0052,001-791-733-2067x4895,Germany,"1989 Joanne Crest Apt. 872 Ramosburgh, IA 84868",Silver
+CUST0053,(350)705-0491x95723,Japan,"33088 Dawn Crossing Nicolefurt, NC 42349",Platinum
+CUST0054,413-421-2087,USA,"7111 Diane Corner Apt. 422 East Thomas, NJ 52416",Bronze
+CUST0055,(545)943-5340x6663,USA,USCGC Reed FPO AE 56108,Silver
+CUST0056,(807)421-8633x35152,Japan,"0644 Andre Road Suite 381 Colebury, AR 38436",Platinum
+CUST0057,770.383.4495x0737,Singapore,"9545 Tanya Parks Suite 500 Barnettberg, DC 20543",Bronze
+CUST0058,(443)675-2153,Canada,"07594 Randy Hill Apt. 422 North Tina, OK 99073",Platinum
+CUST0059,323.612.1262x79556,Singapore,"74783 Huerta Prairie Port Jacob, VA 94743",Platinum
+CUST0060,354-390-0587,Vietnam,"4045 Rivera Freeway New Juanmouth, MN 16889",Gold
+CUST0061,+1-381-310-8918,Vietnam,"7813 Caldwell Cove Robinhaven, WY 81537",Bronze
+CUST0062,(717)277-8015,USA,"6478 Rocha Street Apt. 389 East Theresa, WY 30012",Gold
+CUST0063,5642490609,Germany,"5371 Matthews Parkway Apt. 121 Sharonshire, ND 03937",Bronze
+CUST0064,+1-672-827-1594,France,"532 James Rest New Jennifer, CO 11420",Platinum
+CUST0065,(824)392-7631x7900,Japan,"722 Ralph Inlet Natalieport, VI 71107",Platinum
+CUST0066,+1-651-273-8025x270,Korea,"7957 Reid Motorway Juliaton, NE 83348",Gold
+CUST0067,246-713-3704,Vietnam,"681 Bailey Roads Apt. 002 Port Heidimouth, OK 35555",Silver
+CUST0068,(384)382-5910x12288,Vietnam,"0013 Lambert Villages Suite 154 West Jenniferville, MA 62530",Bronze
+CUST0069,571.997.3642x830,France,"1736 Jackson Path Dorisstad, NH 68810",Silver
+CUST0070,(652)604-9795,Japan,"0627 Morgan Estate Lake Calvin, OK 83501",Gold
+CUST0071,(504)803-9294x1990,Japan,"471 Hudson Plain Suite 904 South Brandonberg, NE 76906",Bronze
+CUST0072,974.426.8484x5734,Singapore,"01173 Gonzalez Ports Apt. 041 South Joseph, OK 06308",Gold
+CUST0073,+1-892-950-7055x25494,Australia,"579 Luis Mountain Courtneyside, SD 24697",Bronze
+CUST0074,839-562-9275x269,USA,"688 Wilkins Lock Suite 471 Kennedyport, AL 99499",Gold
+CUST0075,(877)636-0146,France,"89267 Ronnie Trail Apt. 283 Daleside, PW 48376",Silver
+CUST0076,001-957-992-8769x666,Korea,"2977 Joshua Valleys Suite 157 Christinashire, LA 84289",Silver
+CUST0077,(625)456-5938x105,Singapore,"508 Parker Village Angelaland, GU 95393",Bronze
+CUST0078,(925)705-9455x3365,USA,"802 Parker Cove Garyland, CA 98152",Platinum
+CUST0079,446.526.3638,USA,"56099 Dixon Hill Apt. 649 North Melissafort, IA 61661",Silver
+CUST0080,866.648.4383,Japan,"6168 Jeremy Knoll Kevinmouth, TN 26114",Platinum
+CUST0081,+1-585-588-6060,Vietnam,"4328 Alvarez Unions Reyeschester, AR 48357",Silver
+CUST0082,+1-592-877-9435,France,"6533 Cox Knolls Apt. 462 Lake Scottchester, KY 44305",Platinum
+CUST0083,772.416.0316x5075,UK,"931 Barbara Squares Suite 720 Terriside, MH 99022",Silver
+CUST0084,287.754.0037x1204,France,"062 Terry Burgs Maxwellmouth, AK 33176",Platinum
+CUST0085,001-387-945-1325x2701,Germany,"3106 Madison Landing North Kayla, MI 43771",Platinum
+CUST0086,001-605-357-8858x9690,Vietnam,"6481 Davis Freeway Bakermouth, DE 39323",Platinum
+CUST0087,286-678-0731x5890,USA,"09160 Larry Union Hallville, VT 18829",Silver
+CUST0088,001-260-982-6248x4660,UK,"132 Hodges Grove Suite 851 Port Angelastad, AK 97223",Bronze
+CUST0089,363-204-2161,Germany,"681 Cheryl Crossroad Justinside, IA 44383",Bronze
+CUST0090,793.439.5920,Singapore,"80642 Brown Mount Suite 569 Yolandaberg, TX 10460",Silver
+CUST0091,+1-280-571-1115x00489,Singapore,"828 Elizabeth Valleys Apt. 948 Port Brittany, ND 86068",Silver
+CUST0092,226-850-7308,Korea,"725 Michael Knolls Parkerstad, LA 04996",Bronze
+CUST0093,213-962-6244,Korea,"768 Tristan Lock Hatfieldside, CA 74753",Silver
+CUST0094,966.362.3025x63176,USA,Unit 5506 Box 6074 DPO AE 57386,Bronze
+CUST0095,979.814.7572,Germany,"95664 Fernandez Trail Apt. 229 Ryanville, ND 45230",Bronze
+CUST0096,643-983-1810x109,Vietnam,"13235 Gutierrez Circle North Stephanie, NM 44751",Silver
+CUST0097,742.742.7395x458,France,"7817 Kristin Hill Lake Kellyburgh, IL 98749",Platinum
+CUST0098,001-292-638-1106x1629,UK,"1362 Sydney Plain Lake Brittany, DE 77386",Silver
+CUST0099,624.760.9283x71076,Singapore,"6731 Richard Loaf Waltersport, NH 19125",Platinum
+CUST0100,369-693-1270x8302,UK,"9483 Donald Heights Suite 573 North David, WV 85236",Platinum
+CUST0101,8445077139,Canada,"6624 Michael Shoal Suite 062 Port Jamie, MP 97198",Silver
+CUST0102,350.972.5654x996,USA,"PSC 8911, Box 5173 APO AE 67949",Bronze
+CUST0103,(787)972-7577x64345,Canada,"65705 Sherman Ford Suite 781 Hopkinsport, MH 84004",Gold
+CUST0104,(407)981-8380x039,Canada,"8463 Rebecca Alley South Andrew, TN 11395",Platinum
+CUST0105,564-258-1972x55460,Australia,"72706 Jerry Lake Apt. 020 New Tamarashire, RI 31360",Bronze
+CUST0106,880-866-1527x67596,USA,"PSC 5156, Box 2805 APO AE 19317",Bronze
+CUST0107,270.667.0619,Canada,USCGC Smith FPO AA 15940,Gold
+CUST0108,001-881-931-0062x55096,USA,"953 Olsen Path Apt. 126 Jacquelinemouth, ND 86100",Silver
+CUST0109,001-252-741-0217x166,UK,"0073 Christopher Views Apt. 671 Lake Danielville, MS 75643",Silver
+CUST0110,+1-946-642-7244x6753,Vietnam,"1883 Brandon Ville Apt. 224 Nathanview, WA 71994",Platinum
+CUST0111,+1-671-851-3789,Japan,"123 Lindsay Circles Suite 640 Port Jeffrey, IA 17851",Platinum
+CUST0112,(787)271-2219x48949,Japan,"36041 Thomas Stream Parkerfort, SC 76804",Gold
+CUST0113,820.235.4518,Australia,"376 Collier Overpass Suite 327 Turnerville, ME 60851",Silver
+CUST0114,001-597-567-8221x03635,USA,"1575 James Mills New Travis, CT 75101",Platinum
+CUST0115,514-625-6943x9181,Vietnam,Unit 3700 Box 5798 DPO AA 60631,Bronze
+CUST0116,942.779.3695x41081,Korea,"4753 Byrd Street Reynoldstown, LA 75172",Bronze
+CUST0117,403.652.2747x068,USA,"36309 Matthew Forges Apt. 297 Annchester, OR 77727",Silver
+CUST0118,(394)354-4083x550,Japan,"952 David Motorway Suite 686 East Christopher, RI 43517",Platinum
+CUST0119,379.593.5115x38641,Australia,"8202 Beard Crossing East Pamela, CO 68669",Platinum
+CUST0120,(212)705-2517,UK,"45341 Lisa Island Suite 714 Lake Daniel, ND 41918",Platinum
+CUST0121,929.481.2965,Korea,"899 Kevin Ramp Suite 446 North Danielburgh, OK 16836",Silver
+CUST0122,001-448-907-5790,Canada,"8137 Anita Trace Suttontown, FL 66962",Bronze
+CUST0123,001-400-715-3436x1360,Canada,"PSC 1066, Box 7338 APO AA 55458",Gold
+CUST0124,436.998.4859x5355,Australia,"18997 Gordon Viaduct Suite 416 Curtischester, NM 73204",Gold
+CUST0125,+1-864-456-6891x9686,Canada,"7751 Poole Fort Suite 907 Snyderhaven, KS 74059",Platinum
+CUST0126,001-712-314-8140x8336,Japan,"218 Lauren Branch Lake Angela, PW 64715",Silver
+CUST0127,206.514.1063x9306,France,"7176 Ferguson Vista Suite 901 Steelestad, AR 64822",Silver
+CUST0128,330-327-0588x0326,Korea,"9804 Theodore Knoll Moorefort, SC 67722",Bronze
+CUST0129,5613035049,Germany,"23405 Harris Mills East Angelaport, WA 36138",Bronze
+CUST0130,649-427-3447x6359,Korea,"72729 Joshua Courts Lake Tanya, WA 62154",Platinum
+CUST0131,+1-822-974-0167x7190,Vietnam,"32492 Marc Pine Suite 128 West John, DE 00989",Silver
+CUST0132,(763)475-9558,Korea,"55313 Scott Street Suite 208 Sanchezland, PA 66163",Bronze
+CUST0133,317-343-7247x798,Japan,"745 Erika Junction East Shellyland, MP 95214",Bronze
+CUST0134,824-399-6965x6921,Singapore,"29447 Heath Crossing Mariafurt, ME 10711",Bronze
+CUST0135,+1-396-740-6956x740,UK,"15644 Susan Trail Jacksonland, KS 91538",Platinum
+CUST0136,(283)449-1548x67658,USA,Unit 9380 Box 7535 DPO AA 49918,Silver
+CUST0137,001-628-486-9409x796,Singapore,"104 Kimberly Club Vaughanfurt, NC 83565",Bronze
+CUST0138,668-258-3478,Singapore,"96073 Fox Mountains Lake Crystalchester, AS 94436",Bronze
+CUST0139,001-978-854-6852x606,Canada,"96650 Hernandez Street Suite 071 Paulmouth, IA 39408",Gold
+CUST0140,001-660-453-5856x91936,France,"013 Wright Junction Suite 543 Port Christinaburgh, AK 53504",Silver
+CUST0141,952-612-9467x00927,Germany,"1951 Jennifer Roads Dustinview, WV 61386",Silver
+CUST0142,591.540.6759x702,France,"392 George Bridge Apt. 915 Isaiahburgh, MI 27599",Platinum
+CUST0143,690-546-1695x978,Japan,"9598 Jones Path Tracymouth, MO 99591",Gold
+CUST0144,8075752601,Australia,"772 Cline Loop South Danielle, GU 32691",Gold
+CUST0145,525-260-1359x6631,USA,"1968 Green Green Apt. 430 New Jasonmouth, TX 32280",Bronze
+CUST0146,9585582089,Australia,"73117 Schmidt View Suite 017 Austinburgh, RI 47799",Bronze
+CUST0147,903.515.0516,USA,"7392 Joshua Estates Apt. 972 Joycemouth, NV 39653",Silver
+CUST0148,311.783.9903,Vietnam,"84576 Tyler Forge Lake Thomas, NE 63164",Gold
+CUST0149,639-513-7348x9244,Japan,"2041 Amy Dale Apt. 678 South Todd, NE 60910",Gold
+CUST0150,977-272-4884,USA,"294 Sweeney Greens New Eddieton, NH 48835",Silver
+CUST0151,+1-742-283-5685x678,Germany,"4476 Deborah Path Apt. 535 North Michael, VA 61731",Gold
+CUST0152,001-455-359-4835x85977,Japan,USNS Davis FPO AP 19775,Platinum
+CUST0153,312-980-3661x3601,Vietnam,"74352 Mikayla Curve Suite 480 Coxland, GU 21906",Gold
+CUST0154,+1-495-917-8386x8876,Singapore,"38314 Phillip Mountains Suite 211 Lake Tammyshire, VA 11101",Bronze
+CUST0155,497.616.7750,Vietnam,"922 Tracy Heights Suite 671 East Scott, AR 49165",Gold
+CUST0156,001-543-943-6023x21791,USA,"977 Chang Fords South Danielview, UT 97624",Silver
+CUST0157,695.908.7704x4501,France,"068 Valdez Forks Apt. 006 New Timothy, OR 88416",Bronze
+CUST0158,+1-459-273-6559,USA,"019 Dougherty Circle Suite 207 South Timothy, FL 23584",Silver
+CUST0159,4344693304,France,"66582 Bradley Ports Suite 138 West Justin, MD 39327",Gold
+CUST0160,2882610141,Singapore,"729 Danielle Skyway East Catherinemouth, MD 84333",Silver
+CUST0161,849-875-8275,Germany,"PSC 8702, Box 6839 APO AP 02225",Silver
+CUST0162,001-473-665-6651x9947,France,"7058 Harper Station Apt. 703 West Lisaview, VI 20347",Platinum
+CUST0163,(208)545-1679x26905,France,"5498 Booth Flats Andreatown, ID 31505",Bronze
+CUST0164,417-887-1019x65355,USA,"PSC 6664, Box 8422 APO AE 59925",Platinum
+CUST0165,587-247-9563,France,"020 Christina Plaza Victorberg, TN 18615",Bronze
+CUST0166,870.217.2817x00384,Korea,"36919 Palmer Row Hurstborough, ID 70765",Gold
+CUST0167,001-769-806-0280x4290,Japan,"816 Camacho Keys Apt. 416 North Michelleport, NJ 16066",Gold
+CUST0168,946.903.4408x85655,Japan,"8921 Thomas Field Lake Ryan, KY 25905",Platinum
+CUST0169,001-743-879-8582,Vietnam,"6766 Susan Motorway Bakerville, VA 55569",Platinum
+CUST0170,001-637-311-2741x244,Vietnam,"857 Michael Centers South Cynthia, IN 52919",Bronze
+CUST0171,867-998-5835,USA,"1294 Gray Hollow Apt. 829 Higginston, NC 32067",Bronze
+CUST0172,686-235-2559x166,Japan,USNS Greer FPO AP 34975,Bronze
+CUST0173,001-509-680-3575x4216,Germany,"6519 Mark Highway Suite 819 Lake Chelseaside, AS 76965",Silver
+CUST0174,(287)301-3123,Canada,"83043 Flores Vista Victoriafort, MT 17675",Silver
+CUST0175,412-810-7818x2346,Korea,"3451 Melissa Alley South Bryanfort, WV 71951",Gold
+CUST0176,310-308-1122,Germany,"1867 Richard Flat Suite 188 Lake Edward, MP 05887",Bronze
+CUST0177,+1-507-613-8882x51954,Germany,"1234 Alexander Squares New Justin, MS 56849",Silver
+CUST0178,001-757-357-3852x98518,UK,"16281 Crawford Ville Lorifort, AS 70618",Bronze
+CUST0179,+1-354-496-0459,Germany,"89330 Johnson Roads Suite 903 Port Jessicachester, ID 35937",Platinum
+CUST0180,001-730-646-7939x81915,Singapore,"024 Jacob Port Lake Barbaraview, WV 93719",Silver
+CUST0181,+1-977-608-6203x3632,UK,"10517 Isaac Forges North Ericmouth, GA 72806",Silver
+CUST0182,+1-651-806-1858x18775,Japan,"05393 Joseph Corner Apt. 284 New Jonathon, ME 95669",Platinum
+CUST0183,001-507-374-3204x582,Korea,"702 Charles Falls Suite 917 West Kristen, WA 21230",Silver
+CUST0184,(796)380-3594x661,Germany,"996 Snow Lock Lloydshire, AK 39109",Platinum
+CUST0185,315.311.2630x40735,UK,"22695 Francisco Heights Suite 839 Robertport, VT 68192",Gold
+CUST0186,(287)337-4394,Japan,"3973 Simmons Knoll Suite 406 Hernandezview, HI 01650",Bronze
+CUST0187,302-747-2751x258,Canada,"223 Young Lodge South Justin, UT 82289",Bronze
+CUST0188,983-613-6585,Australia,"811 Margaret Inlet Apt. 554 East Eric, PR 49710",Silver
+CUST0189,606-746-0631x1999,UK,"34435 Andrade Branch East Tracyfurt, AL 26013",Platinum
+CUST0190,(552)364-4676,Germany,Unit 2376 Box 8533 DPO AA 05890,Gold
+CUST0191,958-895-3149,UK,"9452 Michael Oval Apt. 991 Fernandezbury, ID 85499",Silver
+CUST0192,001-711-849-6335,Korea,"083 Baird Mall Lake Kathleenton, PA 76526",Silver
+CUST0193,001-760-402-7885,Canada,"848 Williams Bypass Hollyshire, MH 84144",Gold
+CUST0194,+1-946-813-2492x55987,France,"601 Diane Overpass Flemingburgh, NJ 96274",Bronze
+CUST0195,(376)377-6352x998,France,"31866 David Spur Port Calebtown, ME 58221",Gold
+CUST0196,(642)503-8752,Vietnam,"779 Carolyn Locks Apt. 527 Mccannhaven, IL 51055",Platinum
+CUST0197,(715)941-1075x156,Vietnam,"55369 Thompson Ferry Suite 448 Clarkemouth, ID 81015",Gold
+CUST0198,799.318.2477x0806,Korea,"12305 Christopher Points Port Katie, KS 51373",Bronze
+CUST0199,661-901-2760x32903,France,"7230 Bishop Flat Suite 960 New Mollyland, IN 47214",Silver
+CUST0200,(551)596-6877x9511,Singapore,"210 Henderson Loaf Apt. 073 New Gerald, AK 92162",Gold
+CUST0201,811-582-0898x3107,Korea,"65374 James Prairie Suite 857 North Tommy, FL 20509",Bronze
+CUST0202,302-886-7592x06011,Singapore,"074 Margaret Radial Apt. 656 Blackfurt, VT 92441",Platinum
+CUST0203,4848480029,Germany,"2882 Gill Walk Davidtown, NY 03310",Gold
+CUST0204,(478)278-7001x86714,Canada,"47504 Schneider Summit Suite 335 Luisshire, NM 92248",Bronze
+CUST0205,752-575-6892x655,Canada,USS Cooper FPO AA 84491,Silver
+CUST0206,(284)229-3661x19601,France,"7522 Smith Mountain Suite 094 Smithfurt, FM 41031",Bronze
+CUST0207,+1-823-806-7867x316,Canada,"72274 Marvin Plaza Suite 099 Hancockchester, MD 32348",Bronze
+CUST0208,839-466-4731x454,Vietnam,"37479 Moore Vista Kennethville, GA 91645",Silver
+CUST0209,+1-978-456-3204x6771,Germany,"921 Kathy Forest Jonestown, CO 55591",Platinum
+CUST0210,617.967.6438x86855,USA,"65412 Black Bridge Munozton, NJ 11758",Gold
+CUST0211,815-894-3542,Singapore,"PSC 1480, Box 3006 APO AE 75187",Gold
+CUST0212,(750)839-4581x2811,USA,"753 Pamela Tunnel Simonfurt, AK 99914",Gold
+CUST0213,(859)548-5520,Vietnam,"0035 Jeremiah Parkways Suite 228 Lake Rebeccaland, SC 49536",Gold
+CUST0214,463.840.5266x0570,Canada,"327 Douglas Freeway Suite 952 Rachaelmouth, TN 75187",Gold
+CUST0215,+1-383-242-0206x026,Canada,"41312 Brian Estate Suite 447 Coxmouth, WY 29409",Gold
+CUST0216,5218775033,Vietnam,"PSC 8838, Box 4795 APO AP 04135",Silver
+CUST0217,362.920.4427x8857,UK,"2867 Amy Plain Lake Ashleechester, VI 14076",Platinum
+CUST0218,(568)587-9826x844,Canada,"55763 Christine Crescent Suite 763 Port Robynside, AL 53371",Silver
+CUST0219,(788)783-8339x5756,Singapore,"429 Marissa Vista South Davidbury, MN 58273",Gold
+CUST0220,001-909-589-3426,Canada,"2103 Joshua Trafficway Suite 031 Lake Brittanyburgh, CA 46697",Bronze
+CUST0221,+1-549-562-4332x53890,France,"7340 Sherry Landing Nicholasstad, AZ 03817",Gold
+CUST0222,001-953-582-4194x91862,UK,"40417 Bowman Hills Suite 034 Harriston, RI 90469",Platinum
+CUST0223,(810)715-3753x423,Singapore,USNV Jones FPO AP 20492,Gold
+CUST0224,001-856-432-3204x4980,Australia,"9113 Greene Centers West Jenniferstad, MT 50780",Platinum
+CUST0225,405.377.2048x2867,Australia,"537 Michelle Spur Apt. 741 Lake Joshuamouth, NE 96571",Silver
+CUST0226,699.786.2087x720,Vietnam,"146 Edwards Roads Apt. 092 Marshfort, GU 15965",Platinum
+CUST0227,814-330-5408x69337,Japan,"113 Dennis Station Suite 982 Michelleborough, AZ 07320",Bronze
+CUST0228,538-278-0244,France,"71525 Steven Mountain Apt. 547 Olsonport, LA 53784",Gold
+CUST0229,(621)724-5173x927,USA,"85536 Shepard Hills Lake Samuelmouth, GA 73721",Silver
+CUST0230,680-947-7256x7075,France,USS Ferrell FPO AP 97447,Silver
+CUST0231,956.397.9187x58221,UK,"573 Edward Track Port Ethan, RI 93911",Silver
+CUST0232,223-390-3474,Korea,"33954 Logan Track Suite 489 Russellland, AK 82009",Bronze
+CUST0233,951.686.7737,UK,"123 Morton Motorway South Aaronview, AL 14188",Platinum
+CUST0234,+1-505-730-9151x6451,Singapore,"546 Charles Forest Colemanchester, CO 50218",Bronze
+CUST0235,(940)338-6794x200,Australia,"917 Alisha Bypass New Patrickfurt, FM 64225",Platinum
+CUST0236,(265)329-7999x7768,Singapore,"52420 Kelly Springs Apt. 786 West Tammy, FL 42304",Silver
+CUST0237,+1-534-592-0539x0236,Canada,"01860 Ian Drives Danielton, SD 27425",Platinum
+CUST0238,+1-645-566-5552,Canada,"03097 Hernandez Flats Wilcoxville, PR 42467",Silver
+CUST0239,913-422-2943x855,Japan,"4289 Amanda Lock Kimview, OK 94192",Bronze
+CUST0240,4788389719,USA,"463 Gardner Walk Lake Michael, MH 95253",Platinum
+CUST0241,001-426-955-0486x451,UK,"095 Spencer Mall Suite 266 South Kevinton, VI 79155",Silver
+CUST0242,508-263-6140x18643,Vietnam,"217 Justin Road Apt. 735 New Richardfurt, GU 53000",Platinum
+CUST0243,001-497-681-8216x57732,Korea,"935 Castro Road Apt. 136 South Tonyastad, MA 19895",Silver
+CUST0244,001-857-305-9001x74095,USA,"372 April Corner New Valerie, VI 56769",Platinum
+CUST0245,875.272.1839,Japan,"3672 Stacy Ways Lake Joshua, MO 36313",Platinum
+CUST0246,+1-603-762-0153x3039,Vietnam,"9091 Eaton Run Andersonchester, WY 38855",Gold
+CUST0247,(853)247-3846x87496,Australia,"50640 April Cliff Port Nathan, ND 54412",Platinum
+CUST0248,5152825794,Vietnam,"49667 Christopher Vista Apt. 238 Lake Kara, ME 46732",Platinum
+CUST0249,840-301-8453,Japan,"4223 Richardson Drive Suite 705 South Jesus, MS 76831",Platinum
+CUST0250,(776)739-1593x0171,Australia,"6131 Ramos Forge Suite 813 South Cynthiahaven, FL 29490",Gold
+CUST0251,001-262-666-9192,UK,"PSC 8986, Box 9918 APO AP 47722",Gold
+CUST0252,739-655-2233x009,Vietnam,"3244 Richard Gateway Suite 353 New Rhonda, RI 55614",Platinum
+CUST0253,677-940-5053x725,UK,"53342 Jillian Pass New Corey, PW 19290",Gold
+CUST0254,923.704.1911x91965,Australia,"PSC 5494, Box 0238 APO AE 40402",Bronze
+CUST0255,9829717110,France,"76863 Jones Forest Johnsonshire, WA 98437",Silver
+CUST0256,+1-316-824-3027x660,France,"16677 Johnson Square Lake Richardbury, AZ 49970",Gold
+CUST0257,500.232.9499x4374,Germany,"2020 Brown Forest Suite 823 Smithmouth, MA 24527",Bronze
+CUST0258,838.502.1185x4319,Japan,"0624 Jennifer Island Suite 276 Claytontown, AK 93441",Silver
+CUST0259,(472)993-3249x0033,UK,"808 Tracie Skyway Katherinefurt, OH 82990",Platinum
+CUST0260,(406)916-6334,Japan,"37311 Gregory Roads Suite 078 Karentown, AR 52699",Silver
+CUST0261,5349372254,USA,"4895 Pruitt Dam Apt. 398 Rossfurt, IN 07777",Platinum
+CUST0262,233-476-1996,Canada,"811 Robin Ways New Sonya, GU 11180",Gold
+CUST0263,551-762-1005,Vietnam,"5005 Richards Hills North Melissa, MP 06165",Platinum
+CUST0264,5027500668,Canada,USNV Thomas FPO AE 09711,Bronze
+CUST0265,808-546-2154x297,UK,Unit 2316 Box 4252 DPO AA 95327,Platinum
+CUST0266,521.645.6706,Canada,"96110 Billy Isle Suite 815 Christyport, OR 76413",Bronze
+CUST0267,+1-867-994-9716x33134,Singapore,"921 Cochran Pass Brentfurt, OK 24292",Platinum
+CUST0268,501.697.4725x3576,Australia,"17191 Kerri Rue Tammyfurt, AS 46296",Bronze
+CUST0269,001-888-749-6253,Germany,"8328 Jillian Drives Port Amymouth, VT 69626",Gold
+CUST0270,3637553758,Canada,"4977 Manuel Mountains Diazton, NV 46938",Platinum
+CUST0271,001-248-615-9062x8078,Vietnam,"2345 Cooley Forge Suite 991 Reedfort, DC 92425",Silver
+CUST0272,(905)365-5755,Australia,"01310 Eric Road Brycestad, NM 77807",Silver
+CUST0273,+1-775-790-8191,France,"693 Mendoza Villages Kingborough, AL 86680",Platinum
+CUST0274,(726)206-0329x681,Australia,"2997 Natalie Mills Suite 450 East Johnberg, SD 12556",Bronze
+CUST0275,001-425-609-3568x330,Canada,"9314 Larry Rue Payneton, AR 44205",Gold
+CUST0276,(549)204-5161x923,Canada,"854 Nancy Coves Nicholestad, WA 42336",Silver
+CUST0277,+1-208-257-0086x88699,Australia,"991 Patrick Skyway Bensonton, AL 61290",Silver
+CUST0278,+1-319-610-7508x010,Singapore,"502 Daugherty Alley Bennettborough, OH 91501",Bronze
+CUST0279,(337)956-4336,Canada,"9909 Bell Springs Georgeberg, OK 38906",Bronze
+CUST0280,421.904.2813,USA,"269 Christopher View Apt. 113 Carterborough, VI 90111",Platinum
+CUST0281,(350)893-3157x8227,Japan,"266 Joshua Square Lake William, RI 28408",Platinum
+CUST0282,880.467.0831,Japan,"592 Perry Springs Apt. 535 Natashaborough, WA 89655",Bronze
+CUST0283,875-675-6848,France,"63493 Wilkinson Highway Suite 941 East Kimfurt, IN 06760",Platinum
+CUST0284,307.508.1936,Germany,"088 Joseph Fall Apt. 385 New Christopher, NH 15108",Silver
+CUST0285,001-579-302-2474,Australia,"202 Richard Skyway West Jonathanside, PA 10865",Gold
+CUST0286,928-891-4648,Germany,"80709 Sanders Avenue Apt. 751 East Christopherside, IN 33417",Platinum
+CUST0287,(262)466-5489x970,France,"0058 Riley Hollow Suite 765 West Jennifermouth, SD 99511",Platinum
+CUST0288,946-957-8375x0480,France,"896 Jones Squares Lake Jaime, OH 87832",Bronze
+CUST0289,(264)607-9592x598,Australia,"47814 Newman Port Apt. 704 Griffinport, KY 41406",Bronze
+CUST0290,203-293-7503x0867,Vietnam,"9621 Franklin Forges Apt. 983 North Josephside, OK 37947",Bronze
+CUST0291,800-749-6186,Germany,Unit 2173 Box 7156 DPO AA 92295,Silver
+CUST0292,+1-838-956-5705x362,USA,"112 Courtney Cove New Courtneyfurt, NM 03867",Bronze
+CUST0293,4657635401,Korea,"73181 Cassandra Trail Heatherton, GU 71869",Silver
+CUST0294,949.982.5439,UK,"226 William Pike Port Lauren, KY 86037",Bronze
+CUST0295,981.258.4693,Singapore,"81411 Armstrong Locks Apt. 606 West Tara, AL 16187",Silver
+CUST0296,001-357-284-6149,UK,"7207 Mikayla Estate South Jonathonfort, PR 20827",Silver
+CUST0297,+1-789-559-9932,Australia,"5966 Courtney Island Lake Xavier, WV 86282",Bronze
+CUST0298,+1-395-647-4189x2237,Singapore,"271 Thomas Loaf New Stevenborough, MO 74924",Silver
+CUST0299,(649)907-9303,Australia,"PSC 0471, Box 0105 APO AA 25233",Gold
+CUST0300,+1-880-819-5839,Germany,"06798 Doyle Roads Apt. 765 New Jeffreyfort, IA 09833",Silver
